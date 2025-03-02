@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Metehan</h1>
 <h3 align="center">A passionate Mobile developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Odaknoktası**
+- 🔭 I’m currently working on **Odak Noktası**
 
 - 🌱 I’m currently learning **React-native and javascript**
 
